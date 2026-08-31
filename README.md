@@ -1,8 +1,6 @@
 # 🤖 IoT-Based Smart Desk Assistant Bot using ESP32-C3
 
-<p align="center">
-  <img src="Images/Banner.png" alt="Project Banner" width="100%">
-</p>
+
 
 <p align="center">
 
